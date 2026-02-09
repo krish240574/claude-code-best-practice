@@ -2,6 +2,13 @@
 
 A comprehensive guide to all available configuration options in Claude Code's `settings.json` files.
 
+<table width="100%">
+<tr>
+<td><a href="../">← Back to Claude Code Best Practice</a></td>
+<td align="right"><img src="../!/claude-jumping.svg" alt="Claude" width="60" /></td>
+</tr>
+</table>
+
 ## Table of Contents
 
 1. [Settings Hierarchy](#settings-hierarchy)

@@ -1,5 +1,12 @@
 # Comprehensive Browser Automation MCP Comparison Report
 
+<table width="100%">
+<tr>
+<td><a href="../">← Back to Claude Code Best Practice</a></td>
+<td align="right"><img src="../!/claude-jumping.svg" alt="Claude" width="60" /></td>
+</tr>
+</table>
+
 ## Executive Summary
 
 Based on extensive research, I've analyzed the two tools from your screenshots plus a third major contender. Here's my comprehensive breakdown to help you choose the best option for automated testing of your work.

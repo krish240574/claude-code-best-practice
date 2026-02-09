@@ -2,6 +2,13 @@
 
 This document describes the complete flow of the weather data fetching and transformation system.
 
+<table width="100%">
+<tr>
+<td><a href="../">← Back to Claude Code Best Practice</a></td>
+<td align="right"><img src="../!/claude-jumping.svg" alt="Claude" width="60" /></td>
+</tr>
+</table>
+
 ## System Overview
 
 The weather system demonstrates the **Command → Agent → Skills** architecture pattern, where:

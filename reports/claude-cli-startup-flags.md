@@ -2,6 +2,13 @@
 
 A comprehensive reference of all available command-line flags when launching Claude Code from the terminal.
 
+<table width="100%">
+<tr>
+<td><a href="../">← Back to Claude Code Best Practice</a></td>
+<td align="right"><img src="../!/claude-jumping.svg" alt="Claude" width="60" /></td>
+</tr>
+</table>
+
 ## Table of Contents
 
 1. [Session Management](#session-management)
