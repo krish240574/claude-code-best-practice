@@ -61,6 +61,9 @@ practice makes claude perfect
 - use mcp (claude in chrome, playwright, chrome dev tool) to let claude see chrome console logs on its own
 - provide screenshots of the issue
 
+## TIPS FROM BORIS CHERNY (CREATOR OF CLAUDE CODE)
+- [Feb 2026 - 12 Tips](reports/claude-boris-tips-February-26.md) ([Reddit thread](https://www.reddit.com/r/ClaudeAI/comments/1r2m8ma/12_claude_code_tips_from_creator_of_claude_code/))
+
 ## CONTEXT ENGINEERING
 - [Humanlayer - Writing a good Claude.md](https://www.humanlayer.dev/blog/writing-a-good-claude-md)
 - [Claude.md for larger monorepos - Boris Cherny on X](https://github.com/shanraisshan/claude-code-best-practice/blob/main/reports/claude-md-for-larger-mono-repos.md)
@@ -153,3 +156,4 @@ See [weather-orchestration-architecture](weather-orchestration/weather-orchestra
 | [Global vs Project Settings](reports/claude-global-vs-project-settings.md) | Which features are global-only (`~/.claude/`) vs dual-scope, including Tasks and Agent Teams |
 | [Skills Discovery in Monorepos](reports/claude-skills-for-larger-mono-repos.md) | How skills are discovered and loaded in large monorepo projects |
 | [Agent Memory Frontmatter](reports/claude-agent-memory.md) | Persistent memory scopes (`user`, `project`, `local`) for subagents — enabling agents to learn across sessions |
+| [Boris Cherny's 12 Customization Tips](reports/claude-boris-tips-February-26.md) | 12 ways to customize Claude Code — from terminal config to plugins, agents, hooks, and output styles |
