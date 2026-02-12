@@ -163,7 +163,7 @@ With 37 settings and 84 environment variables (use the `"env"` field in your `se
 
 - [Boris Cherny (@bcherny) on X — February 12, 2026](https://x.com/bcherny)
 - [Claude Code Terminal Setup Docs](https://code.claude.com/docs/en/terminal)
-- [Claude Code Plugins & Discovery Docs](https://code.claude.com/docs/en/discovery)
+- [Claude Code Plugins & Discovery Docs](https://code.claude.com/docs/en/discover-plugins)
 - [Claude Code Sub-agents Docs](https://code.claude.com/docs/en/sub-agents)
 - [Claude Code Permissions Docs](https://code.claude.com/docs/en/permissions)
 - [Claude Code Sandbox Docs](https://code.claude.com/docs/en/sandbox)
