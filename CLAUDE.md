@@ -26,6 +26,14 @@ Skills in `.claude/skills/<name>/SKILL.md` use YAML frontmatter:
 - `context`: Set to `fork` to run in isolated subagent context
 - `allowed-tools`: Restrict which tools Claude can use
 
+### Presentation System
+Any request to update, modify, or fix the presentation (`presentation/index.html`) must be handled by the `presentation-curator` agent (`.claude/agents/presentation-curator.md`). Always delegate presentation work to this agent via the Task tool — never edit the presentation directly.
+
+The agent is **self-evolving**: after every execution, it updates its own skills to stay in sync with the presentation. It has three preloaded skills:
+- `vibe-to-agentic-framework`: The conceptual framework ("Vibe Coding → Agentic Engineering"), weight rationale, and journey narrative. Updated after every slide change.
+- `presentation-structure`: Slide format, weight system, navigation, section ranges. Updated when slides are added/removed/reordered.
+- `presentation-styling`: CSS classes, component patterns, syntax highlighting. Updated when new styling patterns are introduced.
+
 ### Hooks System
 Cross-platform sound notification system in `.claude/hooks/`:
 - `scripts/hooks.py`: Main handler for Claude Code hook events
